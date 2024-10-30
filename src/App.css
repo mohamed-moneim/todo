@@ -1,0 +1,71 @@
+body{
+  background-color: #712cf9;
+
+}
+.App{
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  flex-direction: row;
+  padding-top: 30px;
+  height: auto;
+}
+.logo{
+  margin: 0 auto;
+  padding-top: 5%;
+  align-items: center;
+}
+.center{
+  margin: 0 auto;
+}
+label{
+  color: white;
+}
+h1,h2,h3{
+  color: white;
+  padding: 10px;
+}
+form{
+  padding-top: 100px;
+}
+.sbmt{
+  width: 100%;
+}
+.frm{
+  padding-top: 50px;
+}
+.add{
+  float: right;
+  width: 50px;
+  z-index: 10;
+  margin: 0px 30px;
+}
+.body{
+ width: 100%;
+}
+.black{
+  color: rgb(36, 35, 35);
+}
+.nopdng{
+  padding: 0px;
+}
+.textarea{
+  height: 150px;
+}
+.text-right{
+  float: right;
+}
+h4,p{
+  color: white;
+}
+.todo{
+  width: 100%;
+  height: auto;
+  border: white 0.5px solid;
+  padding: 10px 20px;
+}
+.trash{
+  width: 30px;
+  float: right;
+  margin: 10px;
+}
